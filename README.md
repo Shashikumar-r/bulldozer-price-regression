@@ -19,6 +19,11 @@ This repository contains Jupyter notebook that demonstrate:
 
 - `notebooks/`: Jupyter notebooks demonstrating the entire workflow from data preprocessing to model evaluation 📓
 
+## Result 🖼️
+
+This screenshot demonstrates the output of our regression model applied to bulldozer price prediction.
+![bulldozer-price-regression Screenshot](https://github.com/Shashikumar-r/bulldozer-price-regression/blob/main/output.png)
+
 ## Getting Started 🚀
 
 1. Clone this repository:
